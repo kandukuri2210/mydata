@@ -1,0 +1,1 @@
+"File 2 to add more than one file before adding and committing"
